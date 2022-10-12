@@ -20,6 +20,7 @@ The objective is to model the demand for shared bikes with the available indepen
 1)The error terms are normally distributed.
 2)The training and testing accuracy are nearly equal hence there is no Overfit/Underfit situation. 
 3)The predicted values have linear relationship with the actual values.
+
 *Below are the top 3 features contributing towards explaining the demand of the shared bikes -
 > Temp
 > Spring
